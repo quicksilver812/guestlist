@@ -73,8 +73,4 @@ To get started with Guestlist, follow these steps:
 - Dart SDK (comes with Flutter)
 - A device or emulator to run the app
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 *Thank you*
