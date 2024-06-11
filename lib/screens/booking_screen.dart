@@ -108,7 +108,7 @@ class BookingPage extends StatelessWidget {
                         const SizedBox(
                           height: 16,
                         ),
-                        //time
+                        //time of party
                         Row(
                           children: [
                             const SizedBox(
