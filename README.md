@@ -1,6 +1,10 @@
 # Guestlist
 
-Guestlist is a party booking app built using Flutter. It provides users with an intuitive platform to book parties, view promotional offers, and stay updated with the latest party news. 
+Guestlist is a party booking app built using Flutter. It provides users with an intuitive platform to book parties, view promotional offers, and stay updated with the latest party news.
+
+The development is still under progress and I am still working on finishing the UI.
+
+I am using Dart, particularly the Flutter framework for the frontend, and will be using Firebase for the backend later on. For the payment gateway I will be integrating RazorPay's API further.
 
 ## Features
 
@@ -10,29 +14,30 @@ Guestlist is a party booking app built using Flutter. It provides users with an 
 
 ## Screenshots
 
-### Home Screen
-<img src="screenshots/home.png" alt="Home Screen" height="400">
-
-### My Parties Screen
-<img src="screenshots/myparties.png" alt="My Parties Screen" height="400">
-
-### Party Pass Screen
-<img src="screenshots/party-pass.png" alt="Party Pass Screen" height="400">
-
-### Party Details Screen 1
-<img src="screenshots/party1-1.png" alt="Party Details Screen 1" height="400">
-
-### Party Details Screen 2
-<img src="screenshots/party1-2.png" alt="Party Details Screen 2" height="400">
-
-### Profile Screen
-<img src="screenshots/profile.png" alt="Profile Screen" height="400">
+### Welcome Screen
+<img src="screenshots/welcome.png" alt="Welcome Screen" height="500">
 
 ### Signup Screen
-<img src="screenshots/signup.png" alt="Signup Screen" height="400">
+<img src="screenshots/signup.png" alt="Signup Screen" height="500">
 
-### Welcome Screen
-<img src="screenshots/welcome.png" alt="Welcome Screen" height="400">
+### Home Screen
+<img src="screenshots/home.png" alt="Home Screen" height="500">
+
+### Party Details Screen 1
+<img src="screenshots/party1-1.png" alt="Party Details Screen 1" height="500">
+
+### Party Details Screen 2
+<img src="screenshots/party1-2.png" alt="Party Details Screen 2" height="500">
+
+### My Parties Screen
+<img src="screenshots/myparties.png" alt="My Parties Screen" height="500">
+
+### Party Pass Screen
+<img src="screenshots/party-pass.png" alt="Party Pass Screen" height="500">
+
+### Profile Screen
+<img src="screenshots/profile.png" alt="Profile Screen" height="500">
+
 
 ## Installation
 
