@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:guestlist/colors.dart';
-import 'package:guestlist/screens/party_details__only_screen.dart';
 
 // ignore: must_be_immutable
 class BookingPage extends StatelessWidget {
