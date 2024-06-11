@@ -11,28 +11,28 @@ Guestlist is a party booking app built using Flutter. It provides users with an 
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home Screen" height="400">
 
 ### My Parties Screen
-![My Parties Screen](screenshots/myparties.png)
+<img src="screenshots/myparties.png" alt="My Parties Screen" height="400">
 
 ### Party Pass Screen
-![Party Pass Screen](screenshots/party-pass.png)
+<img src="screenshots/party-pass.png" alt="Party Pass Screen" height="400">
 
 ### Party Details Screen 1
-![Party Details Screen 1](screenshots/party1-1.png)
+<img src="screenshots/party1-1.png" alt="Party Details Screen 1" height="400">
 
 ### Party Details Screen 2
-![Party Details Screen 2](screenshots/party1-2.png)
+<img src="screenshots/party1-2.png" alt="Party Details Screen 2" height="400">
 
 ### Profile Screen
-![Profile Screen](screenshots/profile.png)
+<img src="screenshots/profile.png" alt="Profile Screen" height="400">
 
 ### Signup Screen
-![Signup Screen](screenshots/signup.png)
+<img src="screenshots/signup.png" alt="Signup Screen" height="400">
 
 ### Welcome Screen
-![Welcome Screen](screenshots/welcome.png)
+<img src="screenshots/welcome.png" alt="Welcome Screen" height="400">
 
 ## Installation
 
