@@ -73,20 +73,6 @@ To get started with Guestlist, follow these steps:
 - Dart SDK (comes with Flutter)
 - A device or emulator to run the app
 
-## Project Structure
-
-├── android # Android specific code
-├── assets # Images and other assets
-├── ios # iOS specific code
-├── lib # Main Flutter application code
-│ ├── models # Data models
-│ ├── screens # UI screens
-│ ├── services # Business logic and API services
-│ ├── widgets # Reusable widgets
-│ └── main.dart # Entry point of the app
-├── test # Unit and widget tests
-└── pubspec.yaml # Flutter project configuration
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
